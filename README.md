@@ -4,7 +4,7 @@
 
 I'm an... still thinking... under construction...
 
-   <p align="left">
+   <p align="left" width="30px" style="padding-right:10px;">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/></a> 
       <a href="https://www.youtube.com/c/fknight">
