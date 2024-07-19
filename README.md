@@ -2,7 +2,7 @@
 
 **`Cloud Engineer (DataEngineer/DevOps/PowerBI)`**
 
-I'm an... still thinking... under construction...
+By title I am a Cloud Engineer, by practicality well, still thinking about that... From the Excel days of formulae and pivot tables to coding in Python and designing dashboards, I have alreayd seen a wide variation of projects in these short years. I continue to grow ever confident in handling new and emerging technologies.
 
    <p align="left" width="30px" style="padding-right:10px;">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/></a> 
