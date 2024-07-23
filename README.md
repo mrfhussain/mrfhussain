@@ -31,7 +31,6 @@ By title I am a Cloud Engineer, by practicality well, still thinking about that.
 <br />
 
 #
-#
 <!--
 <details>
  <summary><h3>👨‍💻 Farhad's Coding Journey</h3></summary>
