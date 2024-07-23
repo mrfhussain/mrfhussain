@@ -17,7 +17,7 @@ By title I am a Cloud Engineer, by practicality well, still thinking about that.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" />
 <img align="left" alt="YAML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" />
-<img align="left" alt="Shell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shell/shell-original.svg" />
+<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 <br />
 
 ---
