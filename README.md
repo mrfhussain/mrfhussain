@@ -35,7 +35,8 @@ By title I am a Cloud Engineer, by practicality well, still thinking about that.
  <p align="left" width="30px" style="padding-right:10px;">
     <img alt="Microsoft Certified Associate" title="See all my certifications... link soon to be shared" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/></a> 
  </p>
----
+
+#
 <!--
 <details>
  <summary><h3>👨‍💻 Farhad's Coding Journey</h3></summary>
