@@ -5,8 +5,8 @@
 By title I am a Cloud Engineer, by practicality I'm still thinking about that because I have done a few things that could put me in a category of DevOps, some could argue I have done aspects of Software development too.
 From using Excel for Data Analysis to reviewing code in React, I have been exposed to many aspects. 
 
-My Tech experience started from using using Excel to automate processes as well as analyse data - this was during my teaching years - and then using SQL and PowerBI, and now I am doing a whole range of awesome projects, like optimising assets made from bricks and glue! 
-I have been introduced to some remarkable people and technologies, and I can only hope this journey continues to grow.
+My tech experience started from using using Excel to automate processes as well as analyse data - this was during my teaching years - and then using SQL and PowerBI, and now I am doing a whole range of awesome projects, like optimising assets made from bricks and glue! 
+I have been introduced to some remarkable people and technologies, and I can only hope this journey continues to grow - beit through different experiences at varied organisations or through roles needing adaptability.
 
 ---
 
