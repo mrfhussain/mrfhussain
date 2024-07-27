@@ -11,7 +11,7 @@ I have been introduced to some remarkable people and technologies, and I can onl
 ---
 
 ### 🧰 Languages and Tools
-There are some missing form the list below, like Dagster (Python), that is because I couldn't find a suitable icon.
+There are some missing form the list below, like Dagster (Python) - I'm still looking for good icons for these :)
 #### Python
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
